@@ -1,6 +1,6 @@
 
 # Tema 1 IMR
-Echipa: Cernat George, Bacaoanu Remus
+Echipa: Cernat George Lucian, Bacaoanu Remus
 Nu a mers gitingore-ul, asa ca va rog sa folositi linkul din fisierul link-descarcare-proiect
 
 ✅ 1) Folositi Unity (de preferat 2021.3 LTS). Personajele pot fi plasate cu image targets, folosing 2 image targets care se pot apropia si departa (Vuforia). Vuforia merge si pe webcamul de la PC, in caz ca cineva nu poate face build pe telefon. (5p)
